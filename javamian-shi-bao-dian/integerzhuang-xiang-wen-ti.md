@@ -45,7 +45,6 @@ private static class IntegerCache {
         int j = low;
         for(int k = 0; k < cache.length; k++)
             cache[k] = new Integer(j++);
-
         // range [-128, 127] must be interned (JLS7 5.1.7)
         assert IntegerCache.high >= 127;
     }
