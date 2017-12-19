@@ -29,8 +29,7 @@ private static class IntegerCache {
     static {
         // high value may be configured by property
         int h = 127;
-        String integerCacheHighPropValue =
-            sun.misc.VM.getSavedProperty("java.lang.Integer.IntegerCache.high");
+        String integerCacheHighPropValue = sun.misc.VM.getSavedProperty("java.lang.Integer.IntegerCache.high");
         if (integerCacheHighPropValue != null) {
             try {
                 int i = parseInt(integerCacheHighPropValue);
