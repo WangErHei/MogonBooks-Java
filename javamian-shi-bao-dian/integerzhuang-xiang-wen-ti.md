@@ -41,7 +41,6 @@ private static class IntegerCache {
             }
         }
         high = h;
-
         cache = new Integer[(high - low) + 1];
         int j = low;
         for(int k = 0; k < cache.length; k++)
