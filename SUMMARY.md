@@ -6,4 +6,5 @@
 * [Java面试宝典](javamian-shi-bao-dian.md)
   * [equals\(\)方法与==的区别](javamian-shi-bao-dian/equalsfang-fa-4e0e3d3d-de-qu-bie.md)
   * [Integer装箱问题](javamian-shi-bao-dian/integerzhuang-xiang-wen-ti.md)
+  * [Java八种基本数据类型的大小，以及他们的包裹类](javamian-shi-bao-dian/javaba-zhong-ji-ben-shu-ju-lei-xing-de-da-xiao-ff0c-yi-ji-ta-men-de-bao-guo-lei.md)
 
